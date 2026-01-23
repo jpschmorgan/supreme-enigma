@@ -1,8 +1,3 @@
-// Helper functions
-
-export const helper3 = () => { return true; };
-
-
 // Supreme Enigma - Code Improvement
 // Supreme Enigma
 
